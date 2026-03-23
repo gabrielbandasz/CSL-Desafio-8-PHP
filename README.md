@@ -1,4 +1,4 @@
-# 🍪 Apostila 7 – Cookies e Sessions no PHP
+# 🍪 Desafio 8 – Cookies e Sessions no PHP
 
 ## 📖 Introdução
 
